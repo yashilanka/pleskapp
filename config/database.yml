@@ -52,4 +52,4 @@ production:
   <<: *default
   database: yashilanka_railsapp
   username: yashi_lanka
-  password: <%= ENV['PLESKAPP_DATABASE_PASSWORD'] %>
+  password: Omw4x5~0
