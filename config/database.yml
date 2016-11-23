@@ -50,6 +50,6 @@ test:
 #
 production:
   <<: *default
-  database: pleskapp_production
-  username: pleskapp
+  database: yashilanka_railsapp
+  username: yashi_lanka
   password: <%= ENV['PLESKAPP_DATABASE_PASSWORD'] %>
